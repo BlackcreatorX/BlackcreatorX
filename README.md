@@ -31,7 +31,9 @@ I'm always up for talking about games, sharing ideas, meeting other developers, 
     <img src="https://img.shields.io/badge/Discord-Join%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
+
 ---
+
 ## A little about me
 
 Hey! I'm Carlos, a videogame development student who loves figuring out how games work and, more importantly, making them.
